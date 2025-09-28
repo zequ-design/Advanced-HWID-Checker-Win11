@@ -35,7 +35,7 @@
 
 ## Installation & Usage
 
-1. **Download the script** `Get-HWID.ps1` into a folder.  
+1. **Download the script** `./Get-HWID.ps1` into a folder.  
 2. **Open PowerShell as Administrator**.  
 3. **Allow script execution** (if blocked by default policy):
 
